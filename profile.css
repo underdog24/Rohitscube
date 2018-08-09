@@ -1,0 +1,46 @@
+.pro
+{
+    border:solid;
+    margin-left:42%;
+    
+    border-radius:800px 800px 800px 800px;
+    width:10%;
+    height:22%;
+
+    border-color:white;
+    overflow:hidden;
+}
+
+.name
+{
+    
+    width:20%;
+    margin-left:37.5%;
+    margin-top:2%;
+    color:white;
+    padding:0px;
+    font-family:Comic Sans MS;
+    
+}
+
+.grp
+{
+     
+    width:20%;
+    margin-left:37.5%;
+    margin-top:1%;
+    color:white;
+    padding:0px;
+    font-family:Comic Sans MS;
+}
+.desig
+{
+    border:solid;
+    width:20%;
+    margin-left:37.5%;
+    margin-top:1%;
+    color:#EF8E27;
+    padding:0px;
+    font-family:Comic Sans MS;
+
+}
